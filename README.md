@@ -15,7 +15,7 @@ Works also with Harduino V4.14 beta
 Works on 9 till 12 V max!! 
 ## Schematic
 Diagram ESP32 Si4735 Radio.
-![Schematic]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Diagram.JPG)
+![Schematic]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Diagram-V1.2.jpg)
 ### Partslist
 ![Partslist]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Parts-ESP32%20Dev%20Si4735%20Radio.doc )
 ### Photos

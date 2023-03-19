@@ -24,7 +24,7 @@ Diagram ESP32 Si4735 Radio.
 ### Pcb Front
 ![Top]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Front-Pcb-V1.2.JPG)
 ### Bottom Pcb
-![Photo 1]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Back-Pcb.JPG)
+![Photo 1]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Back-Pcb-V1.2.JPG)
 ### “Top Pcb”
 ![Photo 5]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-2.jpg)
 ### Bottom Pcb Finish

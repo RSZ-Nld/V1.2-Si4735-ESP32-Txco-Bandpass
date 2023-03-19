@@ -22,7 +22,7 @@ Diagram ESP32 Si4735 Radio.
 ![Front plate]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_154817.jpg )
 ![Front plate 2]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_164112.jpg ) 
 ### Pcb Front
-![Top]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Front-Pcb.JPG)
+![Top]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Front-Pcb-V1.2.JPG)
 ### Bottom Pcb
 ![Photo 1]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Back-Pcb.JPG)
 ### “Top Pcb”

@@ -28,8 +28,8 @@ Diagram ESP32 Si4735 Radio.
 ### “Top Pcb”
 ![Photo 5]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Front-pcb.jpg)
 ### Bottom Pcb Finish
-![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Pcb-1.jpg)
-### Works with Harduino V4.14 beta
+![Photo 4]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Back-pcb.jpg)
+### Works with Harduino V4.14 
 ![Photo 4]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Harduino-4.14-beta.jpg)
 ### Top Pcb Finish
 

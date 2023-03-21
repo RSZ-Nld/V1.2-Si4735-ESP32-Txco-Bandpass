@@ -17,7 +17,7 @@ Works on 9 till 12 V max!!
 Diagram ESP32 Si4735 Radio.
 ![Schematic]( https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/Diagram-V1.2.JPG)
 ### Partslist
-![Partslist]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Parts-ESP32%20Dev%20Si4735%20Radio.doc )
+![Partslist]( https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/Parts-ESP32%20Dev%20Si4735-Bandpass-Txco-Radio.doc )
 ### Photos
 ![Front plate]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_154817.jpg )
 ![Front plate 2]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_164112.jpg ) 

@@ -51,6 +51,10 @@ Or Gert sketch V3.5:
 
 https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Normal.zip
 
+Or  V5.2a- Dark with Weather info, by IU4ALH
+
+https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/SI4735_ILI9488_52a_Dark_12-24h-Own-Pcb.rar
+
 or reverse encoder:
 
 https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Reverse.zip

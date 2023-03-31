@@ -1,12 +1,16 @@
-SW MW LW and FM Radio  With Bandpass filters and Txco
+SW MW LW and FM Radio  With Bandpass filters, Txco and RF-amp-gain
 ## About the original project
 This project is based on 
-Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, also works with 4 Inch ILI9488 Display
+Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, 
+
+also works with 4 Inch ILI9488 Display
+
 Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2CLR Ricardo for Si4735 library and SSB patch,
 Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
-Works also with Harduino V4.14 beta
+
+Works also with Harduino V4.14 or V4.15
 
 
 
@@ -20,8 +24,11 @@ Diagram ESP32 Si4735 Radio.
 ![Partslist]( https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/Parts-ESP32%20Dev%20Si4735-Bandpass-Txco-Radio.doc )
 ### Photos
 With 4 Inch Display ILI9488
+
 ![F4 Inch](https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/20230328.jpg )
+
 ![Front plate]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_154817.jpg )
+
 ![Front plate 2]( https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/20230224_164112.jpg ) 
 ### Pcb Front
 ![Top]( https://github.com/RSZ-Nld/Si4735-ESP32-Txco-Bandpass/blob/main/Front-Pcb-V1.2.JPG)

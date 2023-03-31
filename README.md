@@ -1,4 +1,4 @@
-SW MW LW and FM Radio  With Bandpass filters, Txco and RF-amp-gain
+SW MW LW and FM Radio  With Bandpass filters, Txco 
 ## About the original project
 This project is based on 
 Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, 
